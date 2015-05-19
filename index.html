@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>HOW TO LOVE SCALA.JS IN 7 STEPS</title>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootswatch/3.3.4/superhero/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<section id="header">
+    <h1>How to love Scala.js in 7 steps</h1>
+    <div class="stepwizard">
+        <div class="stepwizard-row" id="stepwizardWrapper"></div>
+    </div>
+</section>
+
+<section id="content">
+    <div class="side" id="content-left">
+        <div id="left_wrapper">
+
+            <div class="container">
+                <div class="jumbotron">
+                    <h1>SCALA.JS IN 7 STEPS</h1>
+                    <p class="lead">Or how functional programming met the client side. The Scala & Javascript rebel son. Mischiefs in the front-end. Choose your own title.</p>
+                    <p><div id="learn-more" class="btn btn-lg btn-warning" role="button">LEARN MORE</div></p>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+    <div class="side" id="content-right">
+        <iframe id="right_wrapper" src="" frameborder="0" width="100%" height="100%">Your browser doesn't support iframes.</iframe>
+    </div>
+</section>
+
+<script type="text/javascript" src="./target/scala-2.11/lovescalajs-fastopt.js"></script>
+<script type="text/javascript" src="./target/scala-2.11/lovescalajs-jsdeps.js"></script>
+<script type="text/javascript">
+    demo.webapp.DemoApp().main();
+</script>
+</body>
+</html>

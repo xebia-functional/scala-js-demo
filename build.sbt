@@ -1,11 +1,14 @@
-enablePlugins(ScalaJSPlugin)
+// ------------------------------
+// Automated code formatter before compilaion
+// Disabled by default because this is confusing for beginners
+//scalariformSettings
 
-name := "LoveScalaJS"
-
-scalaVersion := "2.11.6"
-
-scalaJSStage in Global := FastOptStage
-
-libraryDependencies += "be.doeraene" %%% "scalajs-jquery" % "0.8.0"
-
-skip in packageJSDependencies := false
+// ------------------------------
+// for ./skinnny console
+initialCommands := """
+import skinny._
+import _root_.controller._, model._
+import org.joda.time._
+import scalikejdbc._, config._
+DBSettings.initialize()
+"""

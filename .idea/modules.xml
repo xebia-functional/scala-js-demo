@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/build.iml" filepath="$PROJECT_DIR$/.idea/modules/build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/build-build.iml" filepath="$PROJECT_DIR$/.idea/modules/build-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dev.iml" filepath="$PROJECT_DIR$/.idea/modules/dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dev-build.iml" filepath="$PROJECT_DIR$/.idea/modules/dev-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/precompileDev.iml" filepath="$PROJECT_DIR$/.idea/modules/precompileDev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/precompileDev-build.iml" filepath="$PROJECT_DIR$/.idea/modules/precompileDev-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/project/.idea/modules/project.iml" filepath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/project/.idea/modules/project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/project/.idea/modules/project-build.iml" filepath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/project/.idea/modules/project-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalajs.iml" filepath="$PROJECT_DIR$/.idea/modules/scalajs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalajs-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scalajs-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/standalone-build.iml" filepath="$PROJECT_DIR$/.idea/modules/standalone-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/standalone-build-build.iml" filepath="$PROJECT_DIR$/.idea/modules/standalone-build-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task.iml" filepath="$PROJECT_DIR$/.idea/modules/task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task-build.iml" filepath="$PROJECT_DIR$/.idea/modules/task-build.iml" />
+    </modules>
+  </component>
+</project>

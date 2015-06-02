@@ -27,4 +27,7 @@ scalajvm/upload/*
 .cache
 .target
 bin/
-
+target/
+project/plugins/project/
+project/project
+project/target

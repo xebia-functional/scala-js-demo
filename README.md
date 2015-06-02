@@ -1,6 +1,16 @@
 # Scala.js DEMO
 Scala.js demo project
 
+Running the app:
+
+````
+activator run
+````
+
+Open `http://localhost:9000` in you browser.
+
+![http://rafp.es/1I2RMPY](http://rafp.es/1I2RMPY)
+
 ## License
 
 Copyright (C) 2012 47 Degrees, LLC Reactive, scalable software solutions. http://47deg.com hello@47deg.com

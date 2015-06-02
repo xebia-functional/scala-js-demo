@@ -1,6 +1,8 @@
 logs
-project/project
-project/target
+target/
+project/plugins/project/
+project/project/
+project/target/
 target
 tmp
 .history
@@ -27,7 +29,3 @@ scalajvm/upload/*
 .cache
 .target
 bin/
-target/
-project/plugins/project/
-project/project
-project/target
